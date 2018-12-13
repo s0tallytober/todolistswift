@@ -44,7 +44,7 @@ class ViewController: UIViewController, UITableViewDataSource , UITableViewDeleg
             
             let todoEntity4 = Todo(context : context!)
             todoEntity4.completed = true
-            todoEntity4.name = "ToDoList4 App"
+            todoEntity4.name = "Add name/notes here"
             todoEntity4.notes = "This page has two pages one is ToDo List page & another one is detials page"
             
             let todoEntity5 = Todo(context : context!)
@@ -55,7 +55,7 @@ class ViewController: UIViewController, UITableViewDataSource , UITableViewDeleg
             let todoEntity6 = Todo(context : context!)
             todoEntity6.completed = true
             todoEntity6.name = "ToDoList6 App"
-            todoEntity6.notes = "This page has two pages one is ToDo List page & another one is detials page"
+            todoEntity6.notes = "Add notes here"
             
             let todoEntity7 = Todo(context : context!)
             todoEntity7.completed = true
